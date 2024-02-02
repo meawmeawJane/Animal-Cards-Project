@@ -1,7 +1,7 @@
 div.tradingcard {
     width: 310px;
-    border: 1px solid #F5F5DC;
-    box-shadow: 6px 6px 1px 0px #EBEBEB;
+    border: 1px solid #f5f5dc;
+    box-shadow: 6px 6px 1px 0px #ebebeb;
     padding-right: .2em;
     padding-left: .7em;
     padding-bottom: .6em;
@@ -9,12 +9,12 @@ div.tradingcard {
 
 .infobox {
     width: 283px;
-    border: 1px solid #F5F5DC;
+    border: 1px solid #f5f5dc;
 }
 
-.animalpicture {
+.interesting-fact {
     width: 300px;
-    height: 200px;
+    height: auto;
     padding-bottom: .8em;
 }
 
